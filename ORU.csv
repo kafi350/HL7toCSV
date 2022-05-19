@@ -1,0 +1,31 @@
+Segment MSH,Segment PID,Segment PV1,Segment OBR,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX,Segment OBX
+,,,,,,,,,,,,,,,,,,,,,,,
+|,1,1,1,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+,,,,,,,,,,,,,,,,,,,,,,,
+^~\&,51164,U,100000215,DT,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST,ST
+,,,,,,,,,,,,,,,,,,,,,,,
+ECONSENTPRO,J. Mustermann^Leon,62656,D-Oph5^Kataraktoperation^LANF,dateOfBirth,baseDataDecimal,MF_Medikamente_5750789_1.1,MF_Medikamente_Alphablocker_6065067_1.1,MF_Allergie_5729708_1.1,MF_Blutung_5733419_1.1,MF_Infektionskrankheit_5745052_1.1,MF_Herz_5742561_1.1,MF_Gefaesse_5954739_1.1,MF_Implantate_5745045_1.1,MF_Lunge_5750774_1.1,MF_Leber_Galle_5750769_1.1,MF_Niere_Harn_5759200_1.1,MF_Stoffwechsel_5762791_1.1,MF_Schilddruese_5772700_1.1,MF_Haut_5742414_1.1,MF_Nervensystem_5755621_1.1,MF_Erkrankungen_weitere_5736281_1.1,MF_Tabak_5762802_1.1,MF_Alkohol_5729704_1.1
+,,,,,,,,,,,,,,,,,,,,,,,
+THIEME,19890918,,,19890918,180 cm / 75.0 kg / m„nnlich,nein,nein,"Medikamente (z.B. Antibiotika, Novalgin, Paracetamol), eiweiis",nein,nein,koronare Herzkrankheit,Erkrankung der Herzkranzgef„áe,nein,"chronische Bronchitis, Asthma bronchiale",nein,Nierenfunktionsst”rung,nein,šberfunktion,Ausschlag,Parkinson,nein,nein,"Bier, hochprozentige Alkoholika"
+,,,,,,,,,,,,,,,,,,,,,,,
+TEST,Unterer Weinberg 2^^Neustadt^^99762,,,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F
+,,,,,,,,,,,,,,,,,,,,,,,
+111,,,,20210615130652,20210615130652,20210615130415,20210615130415,20210615130652,20210615130415,20210615130652,20210615130652,20210615130652,20210615130415,20210615130652,20210615130415,20210615130415,20210615130415,20210615130415,20210615130415,20210615130415,20210615130652,20210615130415,20210615130415
+,,,,,,,,,,,,,,,,,,,,,,,
+20210615131237,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+ORU^R01,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+2e56c7e613df8fb5,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+P,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+2.5,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+AL,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+NE,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+DEU,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+UNICODE UTF-8,,,,,,,,,,,,,,,,,,,,,,,
