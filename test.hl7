@@ -1,1 +1,24 @@
-MSH|^~\&|ECONSENTPRO|THIEME|TEST|111|20210615131237||ORU^R01|2e56c7e613df8fb5|P|2.5|||AL|NE|DEU|UNICODE UTF-8PID|1||51164||J. Mustermann^Leon||19890918||||Unterer Weinberg 2^^Neustadt^^99762PV1|1|U|||||||||||||||||62656OBR|1||100000215|D-Oph5^Kataraktoperation^LANFOBX|1|DT|dateOfBirth||19890918||||||F|||20210615130652OBX|2|ST|baseDataDecimal||180 cm / 75.0 kg / männlich||||||F|||20210615130652OBX|3|ST|MF_Medikamente_5750789_1.1||nein||||||F|||20210615130415OBX|4|ST|MF_Medikamente_Alphablocker_6065067_1.1||nein||||||F|||20210615130415OBX|5|ST|MF_Allergie_5729708_1.1||Medikamente (z.B. Antibiotika, Novalgin, Paracetamol), eiweiis||||||F|||20210615130652OBX|6|ST|MF_Blutung_5733419_1.1||nein||||||F|||20210615130415OBX|7|ST|MF_Infektionskrankheit_5745052_1.1||nein||||||F|||20210615130652OBX|8|ST|MF_Herz_5742561_1.1||koronare Herzkrankheit||||||F|||20210615130652OBX|9|ST|MF_Gefaesse_5954739_1.1||Erkrankung der Herzkranzgefäße||||||F|||20210615130652OBX|10|ST|MF_Implantate_5745045_1.1||nein||||||F|||20210615130415OBX|11|ST|MF_Lunge_5750774_1.1||chronische Bronchitis, Asthma bronchiale||||||F|||20210615130652OBX|12|ST|MF_Leber_Galle_5750769_1.1||nein||||||F|||20210615130415OBX|13|ST|MF_Niere_Harn_5759200_1.1||Nierenfunktionsstörung||||||F|||20210615130415OBX|14|ST|MF_Stoffwechsel_5762791_1.1||nein||||||F|||20210615130415OBX|15|ST|MF_Schilddruese_5772700_1.1||Überfunktion||||||F|||20210615130415OBX|16|ST|MF_Haut_5742414_1.1||Ausschlag||||||F|||20210615130415OBX|17|ST|MF_Nervensystem_5755621_1.1||Parkinson||||||F|||20210615130415OBX|18|ST|MF_Erkrankungen_weitere_5736281_1.1||nein||||||F|||20210615130652OBX|19|ST|MF_Tabak_5762802_1.1||nein||||||F|||20210615130415OBX|20|ST|MF_Alkohol_5729704_1.1||Bier, hochprozentige Alkoholika||||||F|||20210615130415
+MSH|^~\&|ECONSENTPRO|THIEME|TEST|111|20210615131237||ORU^R01|2e56c7e613df8fb5|P|2.5|||AL|NE|DEU|UNICODE UTF-8
+PID|1||51164||Test Test||19000101||||Test Test^^Neustadt^^99762
+PV1|1|U|||||||||||||||||62656
+OBR|1||100000215|D-Oph5^Kataraktoperation^LANF
+OBX|1|DT|dateOfBirth||19000101||||||F|||20210615130652
+OBX|2|ST|baseDataDecimal||180 cm / 75.0 kg / test||||||F|||20210615130652
+OBX|3|ST|MF_Medikamente_5750789_1.1||nein||||||F|||20210615130415
+OBX|4|ST|MF_Medikamente_Alphablocker_6065067_1.1||nein||||||F|||20210615130415
+OBX|5|ST|MF_Allergie_5729708_1.1||Medikamente (z.B. Antibiotika, Novalgin, Paracetamol), eiweiis||||||F|||20210615130652
+OBX|6|ST|MF_Blutung_5733419_1.1||nein||||||F|||20210615130415
+OBX|7|ST|MF_Infektionskrankheit_5745052_1.1||nein||||||F|||20210615130652
+OBX|8|ST|MF_Herz_5742561_1.1||koronare Herzkrankheit||||||F|||20210615130652
+OBX|9|ST|MF_Gefaesse_5954739_1.1||Erkrankung der Herzkranzgefï¿½ï¿½e||||||F|||20210615130652
+OBX|10|ST|MF_Implantate_5745045_1.1||nein||||||F|||20210615130415
+OBX|11|ST|MF_Lunge_5750774_1.1||chronische Bronchitis, Asthma bronchiale||||||F|||20210615130652
+OBX|12|ST|MF_Leber_Galle_5750769_1.1||nein||||||F|||20210615130415
+OBX|13|ST|MF_Niere_Harn_5759200_1.1||Nierenfunktionsstï¿½rung||||||F|||20210615130415
+OBX|14|ST|MF_Stoffwechsel_5762791_1.1||nein||||||F|||20210615130415
+OBX|15|ST|MF_Schilddruese_5772700_1.1||ï¿½berfunktion||||||F|||20210615130415
+OBX|16|ST|MF_Haut_5742414_1.1||Ausschlag||||||F|||20210615130415
+OBX|17|ST|MF_Nervensystem_5755621_1.1||Parkinson||||||F|||20210615130415
+OBX|18|ST|MF_Erkrankungen_weitere_5736281_1.1||nein||||||F|||20210615130652
+OBX|19|ST|MF_Tabak_5762802_1.1||nein||||||F|||20210615130415
+OBX|20|ST|MF_Alkohol_5729704_1.1||Bier, hochprozentige Alkoholika||||||F|||20210615130415

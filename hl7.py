@@ -12,15 +12,10 @@ segment_final = []
 
 hl7 = open("test.hl7", "r").read()
 
-#msg = parse_message(hl7.replace('\n', '\r'), find_groups=True, validation_level=2)
-#print(msg.children)
-#print(msg.children[1].children)
-
 try:
     msg = parser.parse_message(hl7.replace('\n', '\r'), find_groups=True, validation_level=1)
 except UnsupportedVersion:
     msg = parser.parse_message(hl7.replace('\n', '\r'), find_groups=True, validation_level=2)
-
 
 
 indent = "    "
@@ -91,7 +86,7 @@ print(s)
 print(segment_final)
 
 transposed_signals = list(zip_longest(*segment_final))
-with open('student.csv', 'w') as f:
+with open('test.csv', 'w') as f:
     write = csv.writer(f)
     write.writerow(s)
     write.writerows(transposed_signals)
