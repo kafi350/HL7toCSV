@@ -1,5 +1,6 @@
+# Description: This file contains a function that parses an HL7 file and writes the data to a CSV file.
+# Author: Abdullahil Kafi
 from itertools import zip_longest
-
 from hl7apy import parser
 from hl7apy.parser import parse_message
 from hl7apy.core import Group, Segment
@@ -43,7 +44,6 @@ def subgroup (group, indent):
 
 
 def showmsg(msg):
-
     for segment in msg.children:
 
         if isinstance(segment, Segment):

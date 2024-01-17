@@ -1,0 +1,48 @@
+Patient Info
+1,51164,Test Test,19000101,Test Test^^Neustadt^^99762
+
+Encounters
+1,U,62656
+
+Lab Reports
+1,DT,dateOfBirth,19000101,F,20210615130652
+
+2,ST,baseDataDecimal,180 cm / 75.0 kg / test,F,20210615130652
+
+3,ST,MF_Medikamente_5750789_1.1,nein,F,20210615130415
+
+4,ST,MF_Medikamente_Alphablocker_6065067_1.1,nein,F,20210615130415
+
+5,ST,MF_Allergie_5729708_1.1,"Medikamente (z.B. Antibiotika, Novalgin, Paracetamol), eiweiis",F,20210615130652
+
+6,ST,MF_Blutung_5733419_1.1,nein,F,20210615130415
+
+7,ST,MF_Infektionskrankheit_5745052_1.1,nein,F,20210615130652
+
+8,ST,MF_Herz_5742561_1.1,koronare Herzkrankheit,F,20210615130652
+
+9,ST,MF_Gefaesse_5954739_1.1,Erkrankung der Herzkranzgef��e,F,20210615130652
+
+10,ST,MF_Implantate_5745045_1.1,nein,F,20210615130415
+
+11,ST,MF_Lunge_5750774_1.1,"chronische Bronchitis, Asthma bronchiale",F,20210615130652
+
+12,ST,MF_Leber_Galle_5750769_1.1,nein,F,20210615130415
+
+13,ST,MF_Niere_Harn_5759200_1.1,Nierenfunktionsst�rung,F,20210615130415
+
+14,ST,MF_Stoffwechsel_5762791_1.1,nein,F,20210615130415
+
+15,ST,MF_Schilddruese_5772700_1.1,�berfunktion,F,20210615130415
+
+16,ST,MF_Haut_5742414_1.1,Ausschlag,F,20210615130415
+
+17,ST,MF_Nervensystem_5755621_1.1,Parkinson,F,20210615130415
+
+18,ST,MF_Erkrankungen_weitere_5736281_1.1,nein,F,20210615130652
+
+19,ST,MF_Tabak_5762802_1.1,nein,F,20210615130415
+
+20,ST,MF_Alkohol_5729704_1.1,"Bier, hochprozentige Alkoholika",F,20210615130415
+
+Header
